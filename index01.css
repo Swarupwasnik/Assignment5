@@ -1,0 +1,96 @@
+.container{
+    height: 750px;
+    width: 1500px;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    position: absolute
+
+}
+
+.box1{
+    height: 100px;
+    width: 100px;
+    background-color:goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+}
+.box1:hover{
+    width: 250px;
+    
+}
+.box2{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 3s;
+    transition-property: all;
+}
+.box2:hover{
+    width: 250px;
+    height: 250px;
+}
+.box3{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 10s;
+    transition-property: all;
+}
+.box3:hover{
+    width: 310px;
+}
+.box4{
+    height:100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 5s;
+    transition-property: all;
+}
+.box4:hover{
+    width: 310px;
+}
+.box5{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 6s;
+    transition-property: all;
+}
+.box5:hover{
+    width: 310px;
+}
+.box6{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 2px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 6s;
+    transition-property: all;
+}
+.box6:hover{
+    width: 310px;
+}
+.box7{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    transition-duration: 4s;
+    transition-property: all;
+    }
+    .box7:hover{
+        width: 310px;
+    }
